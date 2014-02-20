@@ -32,6 +32,7 @@ public class CommandSale extends CashierCommand
                     if(gm.retGoods(ids).sale(curDate, ss.retKiosk())) gm.delGoods(ids);
 				}
 				ss.getTotal();	//пересчитать итоги
+                ss.setCash(0f);
 				return true;
 			}	
 		}
