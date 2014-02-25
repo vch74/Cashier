@@ -20,7 +20,7 @@ public class CommandSale extends CashierCommand
 			{	
 				media.retUI().showMsg("", Color.RED);
 				StateSales ss = (StateSales) media.currentState();
-				GoodsModel gm = media.retUI().getModel();
+				ModelGoods gm = media.retUI().getModel();
 				
 				SimpleDateFormat form = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
 				long currentDate = System.currentTimeMillis();

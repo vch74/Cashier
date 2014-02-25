@@ -68,16 +68,98 @@
       <file leaf-file-name="mainCashier.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mainCashier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="129" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+            <state line="21" column="5" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommandSale.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="CommandSale.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CommandSale.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="29" selection-start="994" selection-end="994" vertical-scroll-proportion="0.60040987" vertical-offset="202" max-vertical-offset="705">
+            <state line="34" column="29" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="720">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommandKey.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CommandKey.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CashierUI.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CashierUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="228" column="0" selection-start="5768" selection-end="6247" vertical-scroll-proportion="0.0" vertical-offset="2895" max-vertical-offset="4545">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CashierEngine.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CashierEngine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="97" column="0" selection-start="1950" selection-end="2040" vertical-scroll-proportion="0.0" vertical-offset="1349" max-vertical-offset="1815">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DialogInfo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DialogInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="53" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1095">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ModelTotalMounth.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ModelTotalMounth.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="63" selection-start="877" selection-end="877" vertical-scroll-proportion="0.45731708" vertical-offset="165" max-vertical-offset="1200">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1481#1482#0" expanded="true" />
+                <element signature="e#1519#1520#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CashierModel.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CashierModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="32" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ModelTotalDay.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ModelTotalDay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="82" column="26" selection-start="225" selection-end="2512" vertical-scroll-proportion="0.0" vertical-offset="828" max-vertical-offset="1320">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1837#1838#0" expanded="true" />
+                <element signature="e#1875#1876#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Goods.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Goods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="150" column="31" selection-start="2817" selection-end="2817" vertical-scroll-proportion="0.0" vertical-offset="2250" max-vertical-offset="2475">
               <folding />
             </state>
           </provider>
@@ -96,20 +178,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/CashierUI.java" />
         <option value="$PROJECT_DIR$/src/GoodsModel.java" />
-        <option value="$PROJECT_DIR$/src/Goods.java" />
         <option value="$PROJECT_DIR$/src/StateSales.java" />
         <option value="$PROJECT_DIR$/src/mainCashier.java" />
         <option value="$PROJECT_DIR$/src/CommandSale.java" />
+        <option value="$PROJECT_DIR$/src/CommandTotals.java" />
+        <option value="$PROJECT_DIR$/src/DialogTotals.java" />
+        <option value="$PROJECT_DIR$/src/ListenerDialog.java" />
+        <option value="$PROJECT_DIR$/src/TotalDayModel.java" />
+        <option value="$PROJECT_DIR$/src/Goods.java" />
+        <option value="$PROJECT_DIR$/src/CashierUI.java" />
+        <option value="$PROJECT_DIR$/src/CashierModel.java" />
+        <option value="$PROJECT_DIR$/src/ModelTotalDay.java" />
+        <option value="$PROJECT_DIR$/src/DialogInfo.java" />
+        <option value="$PROJECT_DIR$/src/CommandKey.java" />
+        <option value="$PROJECT_DIR$/src/ModelTotalMounth.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
-    <option name="y" value="24" />
-    <option name="width" value="1370" />
-    <option name="height" value="747" />
+    <option name="y" value="25" />
+    <option name="width" value="1366" />
+    <option name="height" value="743" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -137,7 +227,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -180,7 +270,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,11 +287,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/sqlite-jdbc-3.7.2.jar!/" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="editor" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
   <component name="RunManager" selected="Application.Unnamed">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
@@ -238,19 +330,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -276,6 +355,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -362,6 +454,11 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
@@ -382,14 +479,13 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7d6ad4e4-7936-478b-be0e-97ca61def4dd" name="Default" comment="" />
-      <changelist id="" name="Cashier" comment="" />
       <created>1392800811403</created>
       <updated>1392800811403</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="24" width="1370" height="747" extended-state="6" />
+    <frame x="0" y="25" width="1366" height="743" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -398,21 +494,21 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2393539" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3707165" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32817337" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3271028" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16764276" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20278637" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16666667" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15732087" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
     </layout>
@@ -440,17 +536,378 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="28" selection-start="2397" selection-end="2397" vertical-scroll-proportion="0.0" vertical-offset="2025" max-vertical-offset="2235">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/mainCashier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="129" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+        <state line="21" column="5" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CommandSale.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="29" selection-start="994" selection-end="994" vertical-scroll-proportion="0.60040987" vertical-offset="202" max-vertical-offset="705">
+        <state line="34" column="29" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="720">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CashierUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="151" column="23" selection-start="3908" selection-end="3908" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4845">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CashierEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="0" selection-start="1950" selection-end="2040" vertical-scroll-proportion="0.0" vertical-offset="1349" max-vertical-offset="1815">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DialogInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="59" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ModelTotalDay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="18" selection-start="1379" selection-end="1379" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="1065">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1837#1838#0" expanded="true" />
+            <element signature="e#1875#1876#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StateSales.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="320" selection-end="610" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1965">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ModelGoods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="191" selection-end="330" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="1500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="28" selection-start="2397" selection-end="2397" vertical-scroll-proportion="0.0" vertical-offset="2025" max-vertical-offset="2235">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mainCashier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="5" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandSale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="29" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CashierUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="151" column="23" selection-start="3908" selection-end="3908" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4845">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CashierEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="0" selection-start="1950" selection-end="2040" vertical-scroll-proportion="0.0" vertical-offset="1349" max-vertical-offset="1815">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DialogInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="59" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ModelTotalDay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="18" selection-start="1379" selection-end="1379" vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="1065">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1837#1838#0" expanded="true" />
+            <element signature="e#1875#1876#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StateSales.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="320" selection-end="610" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1965">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ModelGoods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="191" selection-end="330" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="1500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="28" selection-start="2397" selection-end="2397" vertical-scroll-proportion="0.0" vertical-offset="2025" max-vertical-offset="2460">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mainCashier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="5" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandSale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="29" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CashierUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="151" column="23" selection-start="3908" selection-end="3908" vertical-scroll-proportion="0.0" vertical-offset="2265" max-vertical-offset="4845">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CashierEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="0" selection-start="1950" selection-end="2040" vertical-scroll-proportion="0.0" vertical-offset="1349" max-vertical-offset="1815">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DialogInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="0" selection-start="1526" selection-end="1526" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="1005">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ModelGoods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="2100">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mainCashier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="5" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandSale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="29" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CashierUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="151" column="23" selection-start="3908" selection-end="3908" vertical-scroll-proportion="0.0" vertical-offset="2265" max-vertical-offset="4845">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CashierEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="0" selection-start="1950" selection-end="2040" vertical-scroll-proportion="0.0" vertical-offset="1349" max-vertical-offset="1815">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DialogInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="861" selection-end="861" vertical-scroll-proportion="0.0" vertical-offset="142" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ModelGoods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="2100">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mainCashier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="129" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandSale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="29" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mainCashier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="5" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandSale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="29" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0" vertical-offset="86" max-vertical-offset="705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CashierEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="0" selection-start="1950" selection-end="2040" vertical-scroll-proportion="0.0" vertical-offset="1349" max-vertical-offset="1815">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StateSales.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="320" selection-end="610" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1845">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="150" column="31" selection-start="2817" selection-end="2817" vertical-scroll-proportion="0.0" vertical-offset="1642" max-vertical-offset="2235">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CashierUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="228" column="0" selection-start="5768" selection-end="6247" vertical-scroll-proportion="0.0" vertical-offset="2895" max-vertical-offset="4545">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ModelGoods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CashierModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="32" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DialogInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="53" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1095">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ModelTotalDay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="26" selection-start="225" selection-end="2512" vertical-scroll-proportion="0.0" vertical-offset="828" max-vertical-offset="1320">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1837#1838#0" expanded="true" />
+            <element signature="e#1875#1876#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ModelTotalMounth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="63" selection-start="877" selection-end="877" vertical-scroll-proportion="0.45731708" vertical-offset="165" max-vertical-offset="1200">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1481#1482#0" expanded="true" />
+            <element signature="e#1519#1520#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

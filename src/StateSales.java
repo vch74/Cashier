@@ -106,7 +106,7 @@ public class StateSales  extends CashierState
 		ce.retUI().showState("Продажа");
 		ce.retUI().showUser(user);
 		ce.retUI().showKiosk(kiosk);
-		GoodsModel gm = ce.retUI().getModel();
+		ModelGoods gm = ce.retUI().getModel();
 		if(gm.getRowCount()==0)
 		{
 			ce.retUI().showGoods(null);

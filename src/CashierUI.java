@@ -141,7 +141,7 @@ public class CashierUI {
 		headsub.add(user);
 		subPanel.add("North",headsub);
 		
-		table = new JTable(new GoodsModel());
+		table = new JTable(new ModelGoods());
 		table.setFocusable(false);
 		table.getTableHeader().setFont(f3);
 		table.setFont(f3);
@@ -209,9 +209,9 @@ public class CashierUI {
 
 		//панель должна закрывать весь экран
 		mainPanel.setResizable(false);
-		//mainPanel.setSize(1200,600);
-		if (!mainPanel.isDisplayable()) mainPanel.setUndecorated(true);
-		GraphicsEnvironment.getLocalGraphicsEnvironment().getDefaultScreenDevice().setFullScreenWindow(mainPanel);
+		mainPanel.setSize(1200,600);
+		//if (!mainPanel.isDisplayable()) mainPanel.setUndecorated(true);
+		//GraphicsEnvironment.getLocalGraphicsEnvironment().getDefaultScreenDevice().setFullScreenWindow(mainPanel);
 		
 		//действия панели при закрытии
 		mainPanel.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -231,6 +231,11 @@ public class CashierUI {
 		cmd.addActionListener(ce);
 		cmd.addKeyListener(ce);
 	}
+
+    public JFrame retFrame()
+    {
+        return mainPanel;
+    }
 	
 	public void showMsg(String textmsg, Color color)
 	{
@@ -298,9 +303,9 @@ public class CashierUI {
 			this.vChange.setText(String.format("%10.2f", cash-total));		
 	}
 	
-	public GoodsModel getModel()
+	public ModelGoods getModel()
 	{
-		return (GoodsModel) table.getModel();
+		return (ModelGoods) table.getModel();
 	}
 	
 	public String getTextCommand()

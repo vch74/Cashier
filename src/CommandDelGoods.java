@@ -16,7 +16,7 @@ public class CommandDelGoods extends CashierCommand
 		if(cmd.equals("del") || cmd.equals("DEL") || cmd.equals("вуд") || cmd.equals("ВУД"))
 		{	
 			media.retUI().showMsg("Не забудьте оформить продажу!!!", Color.RED);
-			GoodsModel gm = media.retUI().getModel();
+			ModelGoods gm = media.retUI().getModel();
 			gm.delGoods();
 			media.retUI().showGoods(gm.retFirst());
 			return true;

@@ -23,7 +23,7 @@ public class CommandFindGoods  extends CashierCommand
 			media.retUI().showGoods(g);
 			if(g.retCode().equals("")) return false;
 			media.retUI().showMsg("Не забудьте оформить продажу!!!", Color.RED);
-			GoodsModel gm = media.retUI().getModel();
+			ModelGoods gm = media.retUI().getModel();
 			gm.addGoods(g);
 			return true;
 		}

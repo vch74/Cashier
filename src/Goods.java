@@ -67,51 +67,76 @@ public class Goods
 		return(barcode);
 	}
 
+    public void setBarcode(String barcode)
+    {
+        this.barcode = barcode;
+    }
+
 	public String retCode()
 	{
 		return(code);
 	}
 
-	public String retName()
+    public void setCode(String code)
+    {
+        this.code = code;
+    }
+
+    public String retName()
 	{
 		return(name);
 	}
 
-	public String retNumber()
+    public void setName(String name)
+    {
+        this.name = name;
+    }
+
+    public String retNumber()
 	{
 		return(number);
 	}
 
-	public float retMediacost()
+    public void setNumber(String number)
+    {
+        this.number = number;
+    }
+
+    public float retMediacost()
 	{
 		return(mediacost);
 	}
 
-	public float retCost()
+    public void setMediacost(float mediacost)
+    {
+        this.mediacost = mediacost;
+    }
+
+    public float retCost()
 	{
 		return(cost);
 	}
 
-	public int retQuantity()
+    public void setCost(float cost)
+    {
+        this.cost = cost;
+        sum = cost*quantity;
+    }
+
+    public int retQuantity()
 	{
 		return(quantity);
 	}
 
-	public float retSum()
+    public void setQuantity(int quantity)
+    {
+        this.quantity = quantity;
+        sum =cost*quantity;
+    }
+
+    public float retSum()
 	{
 		return(sum);
-	}
-	
-	public void changeQuantity(int newQuantity)
-	{
-		quantity = newQuantity;
-		sum =cost*quantity;
-	}
-
-	public void changeCost(float newCost)
-	{
-		cost = newCost;
-		sum = cost*quantity;
 	}
 
     public boolean sale(String date, String kiosk)
