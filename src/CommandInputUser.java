@@ -12,11 +12,12 @@ public class CommandInputUser extends CashierCommand
 	@Override
 	public boolean run(String cmd) 
 	{
-		if(cmd.charAt(0)=='u' || cmd.charAt(0)=='г')
+		ParsingCmd pc = new ParsingCmd(cmd);
+        if("u".equals(pc.retCodeCmd()) || "г".equals(pc.retCodeCmd()))
 		{
 			if(media.currentState().retName().equals("InputUser"))
 			{	
-				String code = cmd.substring(1);
+				String code = pc.parameter;
 				User u = new User(code);
 				if(u.retRole() == 0)
 				{	

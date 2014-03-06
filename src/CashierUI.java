@@ -311,6 +311,7 @@ public class CashierUI {
 	public String getTextCommand()
 	{
 		String txt = cmd.getText();
+        if(txt.length()>50) txt="";
 		cmd.setText("");
 		return txt;
 	}

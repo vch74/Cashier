@@ -65,46 +65,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="mainCashier.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mainCashier.java">
+      <file leaf-file-name="CommandInputKiosk.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CommandInputKiosk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="5" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
+            <state line="20" column="45" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommandSale.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CommandSale.java">
+      <file leaf-file-name="ParsingCmd.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ParsingCmd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="29" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="720">
+            <state line="61" column="36" selection-start="2132" selection-end="2132" vertical-scroll-proportion="0.0" vertical-offset="497" max-vertical-offset="1230">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommandKey.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CommandKey.java">
+      <file leaf-file-name="CommandInputUser.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CommandInputUser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+            <state line="19" column="42" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CashierUI.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CashierUI.java">
+      <file leaf-file-name="User.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="228" column="0" selection-start="5768" selection-end="6247" vertical-scroll-proportion="0.0" vertical-offset="2895" max-vertical-offset="4545">
+            <state line="20" column="12" selection-start="332" selection-end="332" vertical-scroll-proportion="0.6097561" vertical-offset="0" max-vertical-offset="690">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CashierEngine.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CashierEngine.java">
+      <file leaf-file-name="Kiosk.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Kiosk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="97" column="0" selection-start="1950" selection-end="2040" vertical-scroll-proportion="0.0" vertical-offset="1349" max-vertical-offset="1815">
+            <state line="17" column="28" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CashierCommand.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CashierCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="22" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
               <folding />
             </state>
           </provider>
@@ -113,20 +122,18 @@
       <file leaf-file-name="DialogInfo.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DialogInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="53" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1095">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1095">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ModelTotalMounth.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ModelTotalMounth.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ModelTotalMounth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="63" selection-start="877" selection-end="877" vertical-scroll-proportion="0.45731708" vertical-offset="165" max-vertical-offset="1200">
+            <state line="51" column="14" selection-start="1430" selection-end="1430" vertical-scroll-proportion="0.0" vertical-offset="562" max-vertical-offset="1155">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1481#1482#0" expanded="true" />
-                <element signature="e#1519#1520#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -135,10 +142,8 @@
       <file leaf-file-name="CashierModel.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CashierModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="32" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="22" column="32" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="420">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -146,20 +151,7 @@
       <file leaf-file-name="ModelTotalDay.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ModelTotalDay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="26" selection-start="225" selection-end="2512" vertical-scroll-proportion="0.0" vertical-offset="828" max-vertical-offset="1320">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1837#1838#0" expanded="true" />
-                <element signature="e#1875#1876#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Goods.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Goods.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="150" column="31" selection-start="2817" selection-end="2817" vertical-scroll-proportion="0.0" vertical-offset="2250" max-vertical-offset="2475">
+            <state line="82" column="26" selection-start="225" selection-end="2512" vertical-scroll-proportion="0.0" vertical-offset="1230" max-vertical-offset="1320">
               <folding />
             </state>
           </provider>
@@ -187,12 +179,17 @@
         <option value="$PROJECT_DIR$/src/ListenerDialog.java" />
         <option value="$PROJECT_DIR$/src/TotalDayModel.java" />
         <option value="$PROJECT_DIR$/src/Goods.java" />
-        <option value="$PROJECT_DIR$/src/CashierUI.java" />
         <option value="$PROJECT_DIR$/src/CashierModel.java" />
         <option value="$PROJECT_DIR$/src/ModelTotalDay.java" />
         <option value="$PROJECT_DIR$/src/DialogInfo.java" />
         <option value="$PROJECT_DIR$/src/CommandKey.java" />
         <option value="$PROJECT_DIR$/src/ModelTotalMounth.java" />
+        <option value="$PROJECT_DIR$/src/CashierUI.java" />
+        <option value="$PROJECT_DIR$/src/Kiosk.java" />
+        <option value="$PROJECT_DIR$/src/CommandInputKiosk.java" />
+        <option value="$PROJECT_DIR$/src/ParsingCmd.java" />
+        <option value="$PROJECT_DIR$/src/CommandInputUser.java" />
+        <option value="$PROJECT_DIR$/src/User.java" />
       </list>
     </option>
   </component>
@@ -227,6 +224,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -270,7 +268,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -536,48 +533,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Goods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="135" column="28" selection-start="2397" selection-end="2397" vertical-scroll-proportion="0.0" vertical-offset="2025" max-vertical-offset="2235">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mainCashier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="5" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CommandSale.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="29" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="720">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CommandKey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CashierUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="151" column="23" selection-start="3908" selection-end="3908" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4845">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CashierEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="0" selection-start="1950" selection-end="2040" vertical-scroll-proportion="0.0" vertical-offset="1349" max-vertical-offset="1815">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DialogInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="59" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1080">
@@ -588,11 +543,7 @@
     <entry file="file://$PROJECT_DIR$/src/ModelTotalDay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="18" selection-start="1379" selection-end="1379" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="1065">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1837#1838#0" expanded="true" />
-            <element signature="e#1875#1876#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -620,7 +571,10 @@
     <entry file="file://$PROJECT_DIR$/src/mainCashier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="5" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
-          <folding />
+          <folding>
+            <element signature="e#174#262#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -662,11 +616,7 @@
     <entry file="file://$PROJECT_DIR$/src/ModelTotalDay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="18" selection-start="1379" selection-end="1379" vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="1065">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1837#1838#0" expanded="true" />
-            <element signature="e#1875#1876#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -694,7 +644,10 @@
     <entry file="file://$PROJECT_DIR$/src/mainCashier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="5" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
-          <folding />
+          <folding>
+            <element signature="e#174#262#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -750,7 +703,10 @@
     <entry file="file://$PROJECT_DIR$/src/mainCashier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="5" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
-          <folding />
+          <folding>
+            <element signature="e#174#262#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -806,7 +762,10 @@
     <entry file="file://$PROJECT_DIR$/src/mainCashier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="129" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
-          <folding />
+          <folding>
+            <element signature="e#174#262#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -817,23 +776,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mainCashier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="5" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CommandSale.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="34" column="29" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0" vertical-offset="86" max-vertical-offset="705">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CashierEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="0" selection-start="1950" selection-end="2040" vertical-scroll-proportion="0.0" vertical-offset="1349" max-vertical-offset="1815">
           <folding />
         </state>
       </provider>
@@ -852,13 +797,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CashierUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="228" column="0" selection-start="5768" selection-end="6247" vertical-scroll-proportion="0.0" vertical-offset="2895" max-vertical-offset="4545">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ModelGoods.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
@@ -869,15 +807,6 @@
     <entry file="file://$PROJECT_DIR$/src/CashierModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="32" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DialogInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="53" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1095">
           <folding />
         </state>
       </provider>
@@ -885,11 +814,7 @@
     <entry file="file://$PROJECT_DIR$/src/ModelTotalDay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="82" column="26" selection-start="225" selection-end="2512" vertical-scroll-proportion="0.0" vertical-offset="828" max-vertical-offset="1320">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1837#1838#0" expanded="true" />
-            <element signature="e#1875#1876#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -902,12 +827,83 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ModelTotalMounth.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="63" selection-start="877" selection-end="877" vertical-scroll-proportion="0.45731708" vertical-offset="165" max-vertical-offset="1200">
+        <state line="51" column="14" selection-start="1430" selection-end="1430" vertical-scroll-proportion="0.0" vertical-offset="562" max-vertical-offset="1155">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1481#1482#0" expanded="true" />
-            <element signature="e#1519#1520#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mainCashier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="28" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <folding>
+            <element signature="e#174#262#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DialogInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1095">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CashierUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="313" column="35" selection-start="8069" selection-end="8069" vertical-scroll-proportion="0.0" vertical-offset="3952" max-vertical-offset="4560">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CashierCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="22" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kiosk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="28" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CashierEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="28" selection-start="1431" selection-end="1431" vertical-scroll-proportion="0.0" vertical-offset="825" max-vertical-offset="1755">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandInputKiosk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="45" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ParsingCmd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="36" selection-start="2132" selection-end="2132" vertical-scroll-proportion="0.0" vertical-offset="497" max-vertical-offset="1230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandInputUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="42" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="12" selection-start="332" selection-end="332" vertical-scroll-proportion="0.6097561" vertical-offset="0" max-vertical-offset="690">
+          <folding />
         </state>
       </provider>
     </entry>

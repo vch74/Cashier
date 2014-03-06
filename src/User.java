@@ -14,9 +14,12 @@ public class User
 	
 	public User(String code)
 	{
-		this.code = code;
-		this.fio = "Иванов И.И.";
-		this.role = 0;		
+		if(code.equals("256"))
+        {
+            this.code = code;
+		    this.fio = "Иванов И.И.";
+		    this.role = 0;
+        }
 	}
 	
 	public String retCode()
